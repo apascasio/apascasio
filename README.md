@@ -32,3 +32,8 @@ I'm a Linux enthusiast who enjoys solving complex problems and optimizing system
 - **LinkedIn**: [Andres Pascasio](https://www.linkedin.com/in/andrespascasio/?locale=en_US)
 
 ---
+## ** Tech Stack & Skills **
+![AWS Badge](https://img.shields.io/badge/AWS-Cloud_Practitioner-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green)
+
