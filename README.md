@@ -1,34 +1,31 @@
-# 👋 Hi, I'm Andres Pascasio
+# 👋 Hi, I'm Andres
 
-💻 **Software Engineer | AWS Cloud Practitioner in Progress**
+Backend and data engineer who likes tidy pipelines and numbers you can trust.
 
-With over a decade of experience in software engineering, I specialize in **backend development**, **data management**, and **cloud technologies**. I'm passionate about building reliable systems, ensuring data accuracy, and exploring the potential of the cloud.
+I spent over a decade doing backend and data work: taking messy, scattered sources and turning them into systems people could rely on. My favourite kind of win is the boring one - a report that used to take two days to prepare now takes fifteen minutes.
 
----
+Cloud and AI are where I'm putting my energy now. I'm AWS Certified (Cloud Practitioner, 2024), and I'm going deep on LLM agents and RAG by building them, not just reading about them.
 
-### 🛠️ **What I Do**
+I've been on Linux for years (a decade of that as a Fedora Ambassador), so open source is home turf. I learn best by explaining things, so I share what I learn as I go.
 
-- **Backend Development**: Database design, API development, and data integration.
-- **Data Management**: ETL processes and maintaining data integrity.
-- **Cloud Technologies**: AWS services like EC2, S3, and ongoing cloud certification.
+## 🚧 What I'm working on
 
----
+- Levelling up in AI engineering: LLM agents, tools and RAG. Building as I learn, and I'll publish it here once it's worth showing.
 
-### 🎯 **Currently Working On**
+## 🛠️ Technologies I've worked with
 
-- **AWS Cloud Practitioner Certification**: Expanding my cloud expertise.
-- **Continuous Learning**: Exploring new technologies in software development.
+- Languages: Python, C#, Java, SQL / T-SQL, PL/SQL
+- Data: SQL Server, Oracle, MySQL, ETL and pipelines
+- Cloud and infra: AWS (EC2, S3, Lambda, RDS), Docker, Linux
 
----
+Most of my hands-on time these days goes to Python, plus some Terraform.
 
-### 🌟 **Fun Fact**
+## 📚 Guides
 
-I'm a Linux enthusiast who enjoys solving complex problems and optimizing systems.
+- OdyLab: a finished set of guides and tutorials on Linux, SQL and Python.
 
----
+## 📫 Say hi
 
-### 📫 **Let's Connect**
+Happy to talk backend, data, cloud or AI - and open to UK roles, remote or hybrid.
 
-- **LinkedIn**: [Andres Pascasio](https://www.linkedin.com/in/andrespascasio/?locale=en_US)
-
----
+[![LinkedIn: Andres Pascasio](https://img.shields.io/badge/LinkedIn-Andres_Pascasio-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/andrespascasio/)
